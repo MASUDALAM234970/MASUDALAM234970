@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Hugging Face Transformers, TensorFlow**
 
-- 💎 How to reach me **your.email@example.com**
+- 💎 How to reach me **mdmasudalam2349@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
