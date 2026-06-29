@@ -20,7 +20,7 @@ class MasudAlam extends Developer {
   final String name     = "MD Masud Alam";
   final String role     = "Full-Stack & Flutter Developer";
   final String location = "Bangladesh 🇧🇩";
-  final String email    = "mdmasudalam2349@gmail.com";
+  final String email    = "mdmasudalam.dev@gmail.com";
 
   final List<String> expertise = [
     "Flutter (Cross-Platform Apps)",
